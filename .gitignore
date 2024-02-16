@@ -7,6 +7,8 @@ target.csv
 .DS_Store
 # C extensions
 *.so
+*.feather 
+*.csv
 
 # Distribution / packaging
 .Python
