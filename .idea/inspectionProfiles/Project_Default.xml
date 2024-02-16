@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bs4.find.all" />
+          <option value="Exercise.ses07_data_structures.Queue.__getitem__" />
+          <option value="dict.append" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
